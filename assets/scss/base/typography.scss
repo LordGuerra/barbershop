@@ -1,0 +1,54 @@
+h1 {
+    font-size: $xx-large;
+    color: $white;
+    font-family: $Playfair;
+    font-weight: $black;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    font-size: $x-large;
+    color: $eerieblack;
+    font-family: $Playfair;
+    font-weight: $black;
+    font-style: italic;
+    // padding-left: 2rem;
+}
+
+h3 {
+    font-family: $Playfair;
+    font-weight: $regular;
+    font-size: $large;
+    color: $nickel;
+    // padding-left: 10%;
+    padding-top: 5rem;
+}
+
+h4 {
+    font-family: $Roboto;
+    font-size: $medium;
+    font-weight: $ligth;
+    color: $spanishpink;
+    text-align: left;
+}
+
+p {
+    font-weight: $ligth;
+    font-size: $small;
+    line-height: 300%;
+    // padding-left: 10%;
+    // padding-right: 10%;
+    color: $nickel;
+    letter-spacing: 1px;
+
+}
+.pink {
+    font-weight: $ligth;
+    font-size: $small;
+    line-height: 300%;
+    color: $ruddypink;
+    text-align: left;
+
+
+}

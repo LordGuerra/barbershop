@@ -1,0 +1,41 @@
+.barra {
+    background-color: $eerieblack;
+    position: fixed;
+    z-index: 1;
+
+    img {
+        width: 70px;
+        padding: 0.3rem;
+    }
+
+}
+
+a.nav-link:hover {
+    background: $ruddypink;
+}
+
+.linea {
+    border: 10px;
+    background-color: $raisinblack;
+    margin: 5rem 0 3rem 0rem;
+}
+
+.paginas {
+    background-color: $platinum;
+    padding: 4%;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.naomi {
+    img {
+        width: 180px;
+        padding-right: 2rem;
+    }
+}
+
+.naomi_naothai {
+    padding-right: 2rem;
+    padding-top: 1rem;
+
+}
